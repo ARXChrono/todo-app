@@ -1,6 +1,6 @@
-# New Project
+# Typescript TODO App
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+Testing typescript with snowpack
 
 ## Available Scripts
 
