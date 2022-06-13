@@ -1,6 +1,6 @@
-# Typescript TODO App
+# Info
 
-Testing typescript with snowpack
+Simple todo app using typescript
 
 ## Available Scripts
 
